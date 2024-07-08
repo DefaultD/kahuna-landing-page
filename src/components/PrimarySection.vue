@@ -16,8 +16,8 @@
         <button class="btn btn-block" style="background-color: #D02B25; color: white;">Contate-nos</button>
       </div>
     </div>
-    <div class="w-100">
-      <img class="img-fluid w-100" src="../assets/boxe.png">
+    <div class="w-100" style="padding-bottom: 30px;">
+      <img class="img-fluid w-100" src="../assets/kenpo.png">
     </div>
   </div>
 
