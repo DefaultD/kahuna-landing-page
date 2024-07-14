@@ -45,7 +45,7 @@ export default {
           resolve();
         } else {
           const script = document.createElement('script');
-          script.src = `https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY`;
+          script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyAIGktF807475WDTiwfJSXpXtM5pjybbVc`;
           script.async = true;
           script.defer = true;
           script.onload = resolve;

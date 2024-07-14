@@ -12,8 +12,9 @@
       </div>
     </div>
     <div class="row mb-3 justify-content-center">
-      <div class="col-md-4 col-8 text-center">
-        <button class="btn btn-block" style="background-color: #D02B25; color: white;">Contate-nos</button>
+      <div class="col-md-4 col-8 text-center" href="#contato">
+        <a class="nav-link" href="#contato">
+          <button class="btn btn-block" style="background-color: #D02B25; color: white;">Contate-nos</button></a>
       </div>
     </div>
     <div class="w-100" style="padding-bottom: 30px;">

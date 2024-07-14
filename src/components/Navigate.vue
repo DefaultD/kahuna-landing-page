@@ -1,5 +1,5 @@
 <template>
-    <nav class="container navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="container navbar navbar-expand-lg">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
           <img src="../assets/logo.png" alt="Logo" width="70" height="50">
@@ -16,6 +16,12 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#sobre">Sobre</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#modalidade">Modalidades</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contato">contato</a>
             </li>
           </ul>
         </div>
